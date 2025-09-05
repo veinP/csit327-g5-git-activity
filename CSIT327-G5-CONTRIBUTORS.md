@@ -2,4 +2,4 @@
 
 - _Add your name here in Task C_
 - Revilleza, Frederick (**@juantojuan**)
-- Pangilinan, Vein (**veinP**)
+- Pangilinan, Vein (**@veinP**)
