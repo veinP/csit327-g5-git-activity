@@ -2,5 +2,5 @@
 - Year: 3rd Year
 - Section: G5
 - Favorite Language: Java
-- One Git Tip Learned: e.g., Use `git status` often
+- One Git Tip Learned: Use `git status` often
 - GitHub: @veinP
